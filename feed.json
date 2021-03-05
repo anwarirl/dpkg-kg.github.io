@@ -2,12 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "dpkg",
     "description": "",
-    "home_page_url": "https://dpkg-kg.github.io",
-    "feed_url": "https://dpkg-kg.github.io/feed.json",
+    "home_page_url": "https://anwarirl.github.io/dpkg-kg.github.io",
+    "feed_url": "https://anwarirl.github.io/dpkg-kg.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "admin-dpkg"
     },
     "items": [
+        {
+            "id": "https://anwarirl.github.io/dpkg-kg.github.io/sejarah.html",
+            "url": "https://anwarirl.github.io/dpkg-kg.github.io/sejarah.html",
+            "title": "Sejarah",
+            "summary": "Dana Pensiun merupakan kelanjutan dari Yayasan Dana Pensiun Kompas (YDPK) yang didirikan&hellip;",
+            "content_html": "<p>Dana Pensiun merupakan kelanjutan dari Yayasan Dana Pensiun Kompas (YDPK) yang didirikan berdasarkan Akte Notaris Frederick Alexander Tumbuan dengan Akte Nomor 64 tanggal 21 Januari 1981 dengan nama Yayasan Dana Pensiun Kompas, yang pembentukannya telah mendapat persetujuan Menteri Keuangan berdasarkan Surat Nomor S-179/MK.11/1981 tanggal 29 Mei 1981</p>\n<p>Yayasan Dana Pensiun Kompas sebagaimana dimaksud dalam ayat 1, telah disesuaikan dengan Undang-Undang Dana Pensiun dan peraturan pelaksanaannya dengan Keputusan Direktur Utama PT Kompas Media Nusantara tanggal 1 Maret 1993 dengan nama Dana Pensiun Kompas Gramedia dan telah disahkan berdasarkan Keputusan Menteri Keuangan Nomor KEP-244/ KM.17/1993 tanggal 2 Oktober 1993, selanjutnya telah diubah berturut-turut dengan Keputusan Direktur Utama PT Kompas Media Nusantara, sebagai berikut :</p>\n<ol>\n<li>Keputusan Direktur Utama PT Kompas Media Nusantara Nomor DPKG/KMN/02/V/96 tanggal 3 Mei 1996 dan telah disahkan berdasarkan Keputusan Menteri Keuangan Nomor  KEP-334/KM.17/1996 tanggal 4 September 1996</li>\n<li>Keputusan Direktur Utama PT Kompas Media Nusantara Nomor DPKG/KMN/26/V/99   tanggal 28 Mei 1999 dan telah disahkan berdasarkan Keputusan Menteri Keuangan Nomor  KEP-340/KM.17/1999 tanggal 13 September 1999</li>\n<li>Keputusan Direktur Utama PT Kompas Media Nusantara Nomor DPKG/KMN/31/XII/00 tanggal 15 Desember 2000 dan telah disahkan berdasarkan Keputusan Menteri Keuangan Nomor KEP-040/KM.6/2002 tanggal 18 Pebruari 2002</li>\n<li>Keputusan Direktur Utama PT Kompas Media Nusantara Nomor DPKG/KMN/4/V/03 tanggal 15 Januari 2003 dan telah disahkan berdasarkan Keputusan Menteri Keuangan Nomor KEP-048/KM.6/2004 tanggal 3 Pebruari 2004</li>\n<li>Keputusan Direktur Utama PT Kompas Media Nusantara Nomor DPKG/KMN/3/I/05 tanggal 31 Januari 2005 dan telah disahkan berdasarkan Keputusan Menteri Keuangan Nomor   KEP-290/KM.5/2005 tanggal 6 September 2005</li>\n<li>Keputusan Direktur Utama PT Kompas Media Nusantara Nomor DPKG/KMN/1/I/08 tanggal 14 Januari 2008 dan telah disahkan berdasarkan Keputusan Menteri Keuangan Nomor   KEP-104/KM.10/2008 tanggal 5 Juni 2008</li>\n<li>Keputusan Direktur Utama PT Kompas Media Nusantara Nomor DPKG/KMN/4/VI/10 tanggal 10 Juni 2010 dan telah disahkan berdasarkan Keputusan Menteri Keuangan Nomor KEP-653/KM.10/2010 tanggal 3 Desember 2010</li>\n<li>Keputusan Direktur Utama PT Kompas Media Nusantara Nomor DPKG/KMN/1/I/14 tanggal 9 Januari 2014 dan telah disahkan berdasarkan Keputusan Dewan Komisioner Otoritas Jasa Keuangan Nomor KEP 2242/NB.1/2014 tanggal 3 September 2014</li>\n<li>Keputusan Direktur Utama PT Kompas Media Nusantara, Nomor DPKG/KMN/6/XI/16 tanggal 11 November 2016 dan disahkan dengan Keputusan Dewan Komisioner Otoritas Jasa Keuangan Nomor KEP-74/NB.1/2016 tanggal 20 Desember 2016</li>\n<li>Keputusan Direktur Utama PT Kompas Media Nusantara, Nomor DPKG/KMN/12/XI/18 tanggal 12 November 2018 dan disahkan dengan Keputusan Dewan Komisioner Otoritas Jasa Keuangan Nomor KEP-72/NB.1/2018 tanggal 31 Desember 2018</li>\n</ol>",
+            "author": {
+                "name": "admin-dpkg"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-05T16:27:43+07:00",
+            "date_modified": "2021-03-05T16:27:43+07:00"
+        }
     ]
 }
