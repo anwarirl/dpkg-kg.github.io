@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dpkg",
+    "description": "",
+    "home_page_url": "https://anwarirl.github.io/dpkg-web",
+    "feed_url": "https://anwarirl.github.io/dpkg-web/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin-dpkg"
+    },
+    "items": [
+    ]
+}

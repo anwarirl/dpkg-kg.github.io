@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://anwarirl.github.io/dpkg-web/sitemap.xml
