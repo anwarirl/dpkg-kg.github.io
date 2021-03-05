@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>dpkg</title>
-    <link href="https://anwarirl.github.io/dpkg-web/feed.xml" rel="self" />
-    <link href="https://anwarirl.github.io/dpkg-web" />
+    <link href="https://dpkg-kg.github.io/feed.xml" rel="self" />
+    <link href="https://dpkg-kg.github.io" />
     <updated>1970-01-01T07:00:00+07:00</updated>
     <author>
         <name>admin-dpkg</name>
     </author>
-    <id>https://anwarirl.github.io/dpkg-web</id>
+    <id>https://dpkg-kg.github.io</id>
 
 </feed>
